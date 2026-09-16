@@ -93,48 +93,5 @@ player functionality.
 > "Build something useful. Learn something new. Repeat."
 
 
-## 🌱 Currently Learning
 
-```text
-Python
-Data Science
-Machine Learning
-React
-Next.js
-SQL
-DevOps
-Git & GitHub
-
-
-
-You could instead make this more polished:
-
-```markdown
-| Area | Currently Learning |
-|------|--------------------|
-| Programming | Python, Java |
-| Data | Pandas, NumPy, SQL |
-| ML | Scikit-learn |
-| Web | React, Next.js |
-| DevOps | Git, GitHub Actions |
-
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nahinrahman03/">
-    LinkedIn
-  </a>
-  •
-  <a href="https://github.com/Nahinrahman03">
-    GitHub
-  </a>
-  •
-  <a href="https://nahinrahman03.github.io">
-    Portfolio
-  </a>
-</p>
-
-
-https://github.com/Nahinrahman03
 
