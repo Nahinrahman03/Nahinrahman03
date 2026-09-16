@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%">
+</p>
+
 # Hi, I'm Nahin Rahman 
 
 ### Data Science & Machine Learning Student | Web Developer
